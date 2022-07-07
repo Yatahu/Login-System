@@ -1,0 +1,3 @@
+/Users/wojciechszyjka/CLionProjects/Projektx/cmake-build-debug/CMakeFiles/Projektx.dir
+/Users/wojciechszyjka/CLionProjects/Projektx/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/wojciechszyjka/CLionProjects/Projektx/cmake-build-debug/CMakeFiles/rebuild_cache.dir
